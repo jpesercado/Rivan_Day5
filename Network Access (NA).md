@@ -4,8 +4,6 @@
 
 ## IPv6 Subnetting
 
-![IPv6_IMG](img/IPv6.jpg)
-
 
 &nbsp;
 ---
